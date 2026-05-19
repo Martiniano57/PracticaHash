@@ -1,0 +1,17 @@
+﻿{
+  "Name": "ObtenerDatos",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "7isQfetqxE680V7DQN_C_Q",
+  "Reference": "9NJMFWqweUaRipu292g8ow/7isQfetqxE680V7DQN_C_Q",
+  "ParentRef": "9NJMFWqweUaRipu292g8ow/j-Gqh076ukKxcgeUdHSK_A",
+  "Created": "2026-05-19T13:50:15.8491448Z",
+  "Updated": "2026-05-19T14:00:34.1635517Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
