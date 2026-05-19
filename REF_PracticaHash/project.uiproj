@@ -1,0 +1,6 @@
+{
+  "Name": "REF_PracticaHash",
+  "ProjectType": "Process",
+  "Description": "Practica de la creacion de un hash mediante nombre id y localidad de un cliente",
+  "MainFile": "Main.xaml"
+}
