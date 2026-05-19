@@ -1,10 +1,13 @@
-Framework/KillAllProcesses.xaml|638996668260000000
-Framework/InitAllApplications.xaml|638996668260000000
+Framework/KillAllProcesses.xaml|639147942902359089
+Framework/InitAllApplications.xaml|639147972837150168
 Framework/Process.xaml|638996668260000000
 Framework/CloseAllApplications.xaml|638996668260000000
-Framework/GetTransactionData.xaml|638996668260000000
+Framework/GetTransactionData.xaml|639147985631236738
 Framework/SetTransactionStatus.xaml|638996668260000000
 Framework/TakeScreenshot.xaml|638996668260000000
 Framework/RetryCurrentTransaction.xaml|638996668260000000
 Framework/InitAllSettings.xaml|638996668260000000
-Main.xaml|639147909911904550
+Main.xaml|639147993722964091
+Framework/Logic/Logic_ResetDatos.xaml|639147993599914721
+Framework/Logic/GetData/LogicGetData_ObtenerTabla.xaml|639147986367493381
+Framework/Logic/Logic_LoginACME.xaml|639147992454146371

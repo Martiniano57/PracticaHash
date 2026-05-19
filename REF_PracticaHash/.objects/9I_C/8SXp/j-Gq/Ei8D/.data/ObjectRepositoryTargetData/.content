@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4HQ4j_iuiEKRnHlbTcZoRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reset-test-data" DesignTimeRectangle="184, 598, 125, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='buttonRTD' tag='BUTTON' /&gt;" Guid="3b8413de-f4bb-4c40-b5e8-77df86ff5964" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Reset Test Data' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7d1ed569588b6563cd4bffc752e5e066.jpg" xmlns="">00fJfPSbGY0W9zQewWcBnjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
