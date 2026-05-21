@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Edicion de actividad",
+  "Type": "Screen",
+  "Id": "d84VHAjCXUaF_x7zIEnwUA",
+  "Reference": "9NJMFWqweUaRipu292g8ow/d84VHAjCXUaF_x7zIEnwUA",
+  "ParentRef": "9NJMFWqweUaRipu292g8ow/8SXp_ar4SkOyrE903_N9wQ",
+  "Created": "2026-05-21T11:54:45.0028918Z",
+  "Updated": "2026-05-21T12:07:59.8078037Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
